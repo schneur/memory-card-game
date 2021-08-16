@@ -30,17 +30,13 @@
 
 /* Style the front side (fallback if image is missing) */
 .flip-card-front {
-  background-color: khaki;
+  background-color: rgb(140, 219, 109);
   color: black;
 }
 
 /* Style the back side */
 .flip-card-back {
-  background-color: whitesmoke;
+  background-color: rgb(158, 185, 235);
   color: white;
   transform: rotateY(180deg);
-}
-
-.match {
- display: none;
 }
